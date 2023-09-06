@@ -75,7 +75,7 @@ def main():
     pp(z, 2, "7-NN")
     pp(z, 3, "Naive Bayes")
     pp(z, 4, "Decision Tree")
-    pp(z, 5, "Random Forest (5)")
+    pp(z, 5, "Random Fore st (5)")
     pp(z, 6, "Random Forest (50)")
     pp(z, 7, "SVM (linear)")
 
